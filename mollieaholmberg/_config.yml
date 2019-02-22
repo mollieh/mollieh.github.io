@@ -16,8 +16,9 @@
 title: Mollie Holmberg
 email: mollieholmberg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-MA student // UBC Geography
-More-than-human geographies // Political ecology // Critical data science // Feminist political economy // Science and technology studies
+ MA student, UBC Geography ||
+ More-than-human geographies | Political ecology | Critical data science | Feminist political economy
+  | Science and technology studies
 baseurl: "/mollieaholmberg" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OctoQueenPhD

@@ -19,7 +19,7 @@ Please e-mail me for copies of any articles - I'm happy to send them along.
  health-related Sustainable Development Goals in 188 countries: an analysis from the Global Burden of Disease
   Study 2016." *The Lancet* doi: [http://dx.doi.org/10.1016/S0140-6736(17)32336-X](http://dx.doi.org/10.1016/S0140-6736(17)32336-X).
 
-* S. Lim. et al. (2016) "Measuring the health-related Sustainable Development Goals in 188 countries: a baseline
+* S. Lim et al. (2016) "Measuring the health-related Sustainable Development Goals in 188 countries: a baseline
  analysis from the Global Burden of Disease Study 2015." *The Lancet*
   doi: [http://dx.doi.org/10.1016/S0140-6736(16)31467-2](http://dx.doi.org/10.1016/S0140-6736(16)31467-2).
 
@@ -29,6 +29,35 @@ Please e-mail me for copies of any articles - I'm happy to send them along.
 * R. G. Wallace, L. Bergmann, R. Kock, M. Gilbert, L. Hogerwerf, R. Wallace, **M. Holmberg**. (2014) "The dawn of
  Structural One Health: A new science tracking disease emergence along circuits of capital." *Social Science & Medicine*
   doi: [http://dx.doi.org/10.1016/j.socscimed.2014.09.047](http://dx.doi.org/10.1016/j.socscimed.2014.09.047).
+
+* J. Schleit, S. C. Johnson, C. F. Bennet, M. Simko, N. Trongtham, A. Castanza, E. J. Hsieh, R. M. Moller, B. M. Wasko,
+ J. R. Delaney, G. L. Sutphin, D. Carr, C. J. Murakami, A. Tocchi, B. Xian, W. Chen, T. Yu, S. Goswami, S. Higgins,
+  **M. Holmberg**, K. Jeong, J. R. Kim, S. Klum, E. Liao, M. S. Lin, W. Lo, H. Miller, B. Olsen, Z. J. Peng, T. Pollard,
+   P. Pradeep, D. Pruett, D. Rai, V. Ros, M. Singh, B. L. Spector, H. Vander Wende, E. H. An, M. Fletcher, M. Jelic,
+    P. S. Rabinovitch, M. J. MacCoss, J. J. Han, B. K. Kennedy, M. Kaeberlein. (2013)
+     "Molecular mechanisms underlying genotype-dependent responses to dietary restriction." *Aging Cell*
+      doi:10.1111/acel.12130. 
+
+* J. R. Delaney, C. Murakami, A. Chou, D. Carr, J. Schleit, G. L. Sutphin, E. H. An, A. S. 
+Castanza, M. Fletcher, S. Goswami, S. Higgins, **M. Holmberg**, J. Hui, M. Jelic, K. Jeong, J. R. Kim, S. Klum, E. Liao,
+ M. S. Lin, W. Lo, H. Miller, R. Moller, Z. J. Peng, T. Pollard, P. Pradeep, D. Pruett, D. Rai, V. Ros, A. Schuster,
+  M. Singh, B. L. Spector, H. Vander Wende, A. M. Wang, B. M. Wasko, B. Olsen, M. Kaeberlein. (2013)
+   "Dietary restriction and mitochondrial function link replicative and chronological aging in Saccharomyces cerevisiae."
+    *Experimental Gerontology* 48(10): 1006-1013.
+
+* J. R. Delaney, A. Chou, B. Olsen, D. Carr, C. Murakami, U. Ahmed, S. Sim, E. H. An, A. S. 
+Castanza, M. Fletcher, S. Higgins, **M. Holmberg**, J. Hui, M. Jelic, K. Jeong, J. R. Kim, S. Klum, E. Liao, M. S. Lin,
+ W. Lo, H. Miller, R. Moller, Z. J. Peng, T. Pollard, P. Pradeep, D. Pruett, D. Rai, V. Ros, M. Singh, B. L. Spector,
+  G. L. Sutphin, A. M. Wang, B. M. Wasko, H. Vander Wende, B. K. Kennedy, M. Kaeberlein. (2013)
+   "End-of-life cycle arrest contributes stochasticity of yeast replicative aging." *FEMS Yeast Research* 13(3): 267-276.
+
+* C. Murakami, J. R. Delaney, A. Chou, D. Carr, J. Schleit, G. L. Sutphin, E. H. An, A. S. 
+Castanza, M. Fletcher, S. Goswami, S. Higgins, **M. Holmberg**, J. Hui, M. Jelic, K. Jeong, J. R. Kim,
+ S. Klum, E. Liao, M. S. Lin, W. Lo, H. Miller, R. Moller, Z. J. Peng, T. Pollard, P. Pradeep, D. Pruett, D. Rai,
+  V. Ros, A. Schuster, M. Singh, B. L. Spector, H. Vander Wende, A. M. Wang, B. M. Wasko, B. Olsen, M. Kaeberlein.
+   (2012) "pH neutralization protects against reduction in replicative lifespan following chronological aging in yeast."
+    *Cell Cycle* 11(16): 3087-3096.
+
 
 ### Book reviews
 * **M. Holmberg**, M. Jerowsky, and D. Robb (2018) "Review Essay. *Planetary Improvement: Cleantech and the New Green Spirit

@@ -5,6 +5,18 @@ permalink: /curriculum-vitae/
 order: 3
 ---
  
+### Education
+**University of British Columbia**, starting September 2019  
+*Doctor of Philosophy (PhD)*, Geography  
+
+**University of British Columbia**, September 2017-current  
+*Master of Arts (MA)*, Geography  
+
+**University of Washington**, August 2010-June 2014  
+*Bachelor of Science (BS)*, Biology (Ecology, Evolution and Conservation Biology)  
+Minor in Global Health  
+Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
+
 ### Select Grants, Honors, & Awards
 * **Jimmy Grewal Memorial Award in Geography, 2018**, $2600 CAD  
   Awarded to a student in UBC Geography who is passionate about the environment and has a demonstrated record of volunteering and community service
@@ -32,6 +44,39 @@ order: 3
 * **Research Assistant, Kaeberlein Lab**, University of Washington School of Medicine Department of Pathology, November 2010-March 2012
 
 ### Service & Leadership
+*University of British Columbia*
+* **Volunteer Gallery Educator**, Vancouver Aquarium, April 2018-present, including activities such as:
+  * Developed conservation messaging customized for different prop carts and exhibits
+  * Engaged aquarium visitors with conservation storytelling in the galleries
+* **Sustainability Committee**, Green College, University of British Columbia, March 2018-present, including activities such as:
+  * Co-chair 2018-present
+  * Organized gardening activities for Green College residents
+  * Developed strategies for increasing sustainable practices at Green College
+  * Collaborated with Arts Committee to develop nature-themed art displays at spring coffee house events
+* [**Green Lantern**](https://greencollege.ubc.ca/green-lanterns), Green College, University of British Columbia, September 2018-present
+  * One of four residents selected to provide emotional support and guidance to graduate students living at Green College
+  * Provided residents with confidential problem-solving assistance on diverse health, wellness, and housing issues
+  * Advocated for resident needs to improve health and wellness supports at the College
+* [**Hope in the Anthropocene Workshop**](https://www.greencollege.ubc.ca/sites/greencollege.ubc.ca/files/HopeWkspReport2018.pdf), Green College, University of British Columbia, February 2018-April 2018, including activities such as:
+  * Co-organizer: collaborated on a team of four graduate students from Green College and iRES
+  * Rapporteur for first lecture in Hope in the Anthropocene series: took notes, distilled key insights,
+   developed provocations for use at capstone workshop
+  * Compiled notes from rapporteurs for six talks in the Hope in the Anthropocene series spanning September 2017-April 2018
+  * Drafted invite targeted at academics and professionals spanning the natural sciences, social sciences, and humanities
+  * Led workshop and compiled insights from attendees
+  * For more information, see [this report](https://www.greencollege.ubc.ca/sites/greencollege.ubc.ca/files/HopeWkspReport2018.pdf)
+   drafted by myself and the other organizers
+* **Membership Committee**, Green College, University of British Columbia, March 2018-June 2018, including activities such as:
+  * One of four residents selected to review and rate applications for resident membership at Green College, UBC
+  * Evaluated applicants based on community service, leadership, diversity, interdisciplinarity, and academic excellence
+  * Met monthly to discuss and admit applicants
+* **STEM cultures working group**, University of British Columbia, November 2017-present, including activities such as:
+  * Co-chair, September 2018-present
+  * Discuss topics related to equity and diversity in STEM fields with undergraduates, graduate students,
+   faculty members, and working professionals
+  * Led a discussion about power and equity in data science with graduate students and working professionals
+  * Workshop possibilities for promoting equity and diversity in STEM with graduate students, faculty,
+   and working professionals at UBC
 
 ### Scholarly & Professional Memberships
 * Green College Resident Member

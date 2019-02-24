@@ -65,3 +65,19 @@ Castanza, M. Fletcher, S. Goswami, S. Higgins, **M. Holmberg**, J. Hui, M. Jelic
  [http://societyandspace.org/2018/07/24/planetary-improvement-by-jesse-goldstein/](http://societyandspace.org/2018/07/24/planetary-improvement-by-jesse-goldstein/)
 
 ### Conference & Symposia Presentations
+* "Reconnecting Amid Crisis: Mourning in the Context of Ebola." Oral Presentation. *Undergraduate Research Symposium*,
+ May 16, 2014, **University of Washington**, Seattle, WA
+* "Understanding Patterns of Human Dependence on Primary Production in the Anthropocene." Poster Presentation.
+ *Undergraduate Research Symposium*, May 16, 2014, **University of Washington**, Seattle, WA
+* "Understanding Patterns of Human Dependence on Agriculture and Forest Production in the Anthropocene." Poster
+ Presentation. *Posters on the Hill*, April 29, 2014, **U.S. Capitol**, Washington, D.C.
+* "Reconnecting Amid Crisis: Mourning in the Context of Ebola." Oral Presentation. *Association of American Geographers
+ Annual Meeting*, April 12, 2014, Tampa, FL
+* "Understanding Patterns of Human Dependence on Primary Production in the Anthropocene." Poster Presentation. *National
+ Collegiate Research Conference*, January 25, 2014, **Harvard University**, Cambridge, MA
+* "Reconnecting Amid Crisis: Mourning in the Context of Ebola." Oral Presentation. *Summer Institute in the Arts and
+ Humanities*, August 23, 2013, **University of Washington**, Seattle, WA
+* "Modeling the Human Ecosystem." Oral Presentation. *Undergraduate Research Symposium*, May 18, 2012,
+ **University of Washington**, Seattle, WA
+* "Replicative Lifespan in S. cerevisiae as a Model for Aging," Poster Presentation. *University of Washington School
+ of Medicine Department of Pathology Retreat*, September 16, 2011, **University of Washington**, Seattle, WA

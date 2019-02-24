@@ -22,6 +22,14 @@ order: 3
   Awarded to outstanding undergraduates a maximum of two times to support independent academic research projects
 
 ### Research Experience
+* **Research Assistant**, University of British Columbia, July 2017-present
+* **Institute for Health Metrics and Evaluation**, University of Washington
+  * Data Analyst, February 2015-September 2016
+  * Data Specialist, September 2016-July 2017
+* **Marine Sedimentary Processes Research Apprenticeship**, Friday Harbor Labs, University of Washington, March 2014-June 2014
+* **Undergraduate Researcher**, University of Washington Department of Geography, September 2011-June 2014
+* **Summer Institute in the Arts and Humanities**, University of Washington, June 2013-August 2013
+* **Research Assistant, Kaeberlein Lab**, University of Washington School of Medicine Department of Pathology, November 2010-March 2012
 
 ### Service & Leadership
 

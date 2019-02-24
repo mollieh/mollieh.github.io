@@ -4,6 +4,9 @@ title: Teaching
 permalink: /teaching/
 order: 4
 ---
+
+[Placeholder for teaching statement]
+
 ### Teaching Assistant, University of British Columbia
 * GEOG 310 (Environment and Sustainability), 2017 Winter Term 1
 * GEOG 122 (Geography, Modernity, and Globalization), 2018 Winter Term 2

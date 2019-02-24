@@ -64,6 +64,9 @@ Castanza, M. Fletcher, S. Goswami, S. Higgins, **M. Holmberg**, J. Hui, M. Jelic
  of Capitalism*. By Jesse Goldstein” *Environment & Planning D: Society & Space* 
  [http://societyandspace.org/2018/07/24/planetary-improvement-by-jesse-goldstein/](http://societyandspace.org/2018/07/24/planetary-improvement-by-jesse-goldstein/)
 
+### Theses
+Crisis Ecology at the Vancouver Aquarium: Putting Octopuses to Work for Conservation *(MA Thesis - Forthcoming)*
+
 ### Conference & Symposia Presentations
 * "Reconnecting Amid Crisis: Mourning in the Context of Ebola." Oral Presentation. *Undergraduate Research Symposium*,
  May 16, 2014, **University of Washington**, Seattle, WA

@@ -4,10 +4,10 @@ title: Teaching
 permalink: /teaching/
 order: 4
 ---
-### Teaching Assistant (University of British Columbia)
-* Geog 310 (Environment and Sustainability), 2017 Winter Term 1
-* Geog 122 (Geography, Modernity, and Globalization), 2018 Winter Term 2
-* Geog 313 (Environmental Justice and Social Change), 2018 Winter Term 2
+### Teaching Assistant, University of British Columbia
+* GEOG 310 (Environment and Sustainability), 2017 Winter Term 1
+* GEOG 122 (Geography, Modernity, and Globalization), 2018 Winter Term 2
+* GEOG 313 (Environmental Justice and Social Change), 2018 Winter Term 2
 
 ### Certifications
 * **Geography Department Teaching Enhancement and Professional Development Series (TEPDS)** Certificate,

@@ -18,6 +18,9 @@ Minor in Global Health
 Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
 
 ### Select Grants, Honors, & Awards
+* **Vanier Canada Graduate Scholarship, 2019-2022**  
+  Awarded to up to 166 doctoral students in Canada each year based on academic excellence, research potential, and leadership
+* **Four Year Doctoral Fellowship (4YF), 2022-2023**
 * **Jimmy Grewal Memorial Award in Geography, 2018**, $2600 CAD  
   Awarded to a student in UBC Geography who is passionate about the environment and has a demonstrated record of volunteering and community service
 * **Affiliated Fellowship (Master's), 2018-2019**, $16000 CAD (maximum amount)  

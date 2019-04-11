@@ -72,8 +72,8 @@ Crisis Ecology at the Vancouver Aquarium: Putting Octopuses to Work for Conserva
  Association Geographers Annual Meeting*, April 7, 2019, Washington, DC
 * Ethics in Multispecies Research Panel. Panelist. *American of Association Geographers Annual Meeting*, April 7, 2019,
  Washington, DC
-* "Crisis ecology at the Vancouver Aquarium: Putting octopuses to work for conservation." Oral Presentation. *Members
- Series*, March 25, 2019, Green College, **University of British Columbia**, Vancouver, BC
+* "Crisis ecology at the Vancouver Aquarium: Putting octopuses to work for conservation." Oral Presentation. [*Members
+ Series*](https://greencollege.ubc.ca/civicrm/event/info%3Fid%3D948%26reset%3D1), March 25, 2019, Green College, **University of British Columbia**, Vancouver, BC
 * "Reconnecting Amid Crisis: Mourning in the Context of Ebola." Oral Presentation. *Undergraduate Research Symposium*,
  May 16, 2014, **University of Washington**, Seattle, WA
 * "Understanding Patterns of Human Dependence on Primary Production in the Anthropocene." Poster Presentation.

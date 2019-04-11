@@ -68,6 +68,12 @@ Castanza, M. Fletcher, S. Goswami, S. Higgins, **M. Holmberg**, J. Hui, M. Jelic
 Crisis Ecology at the Vancouver Aquarium: Putting Octopuses to Work for Conservation *(MA Thesis - Forthcoming)*
 
 ### Conference & Symposia Presentations
+* "Crisis ecology at the Vancouver Aquarium: Putting octopuses to work for conservation." Oral Presentation. *American of
+ Association Geographers Annual Meeting*, April 7, 2019, Washington, DC
+* Ethics in Multispecies Research Panel. Panelist. *American of Association Geographers Annual Meeting*, April 7, 2019,
+ Washington, DC
+* "Crisis ecology at the Vancouver Aquarium: Putting octopuses to work for conservation." Oral Presentation. *Members
+ Series*, March 25, 2019, Green College, **University of British Columbia**, Vancouver, BC
 * "Reconnecting Amid Crisis: Mourning in the Context of Ebola." Oral Presentation. *Undergraduate Research Symposium*,
  May 16, 2014, **University of Washington**, Seattle, WA
 * "Understanding Patterns of Human Dependence on Primary Production in the Anthropocene." Poster Presentation.

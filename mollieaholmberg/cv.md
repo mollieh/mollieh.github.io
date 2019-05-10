@@ -21,11 +21,11 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
 * **Vanier Canada Graduate Scholarship, 2019-2022**  
   Awarded to up to 166 doctoral students in Canada each year based on academic excellence, research potential, and leadership
 * **Four Year Doctoral Fellowship (4YF), 2022-2023**
-* **Jimmy Grewal Memorial Award in Geography, 2018**, $2600 CAD  
+* **Jimmy Grewal Memorial Award in Geography, 2018**  
   Awarded to a student in UBC Geography who is passionate about the environment and has a demonstrated record of volunteering and community service
-* **Affiliated Fellowship (Master's), 2018-2019**, $16000 CAD (maximum amount)  
+* **Affiliated Fellowship (Master's), 2018-2019**  
   Awarded to approximately 50 master's students at the University of British Columbia based on academic merit, research potential, community involvement, and leadership activities
-* **R. Howard Webster Fellowship, 2017-2018**, $2000 CAD  
+* **R. Howard Webster Fellowship, 2017-2018** 
   Awarded to select incoming graduate residents of Green College at the University of British Columbia
 * **National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP) Fellowship, 2017**, (declined - for graduate study at U.S. institutions only)  
   Awarded annually to 2,000 students in the United States entering their first year of graduate study
@@ -73,13 +73,6 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
   * One of four residents selected to review and rate applications for resident membership at Green College, UBC
   * Evaluated applicants based on community service, leadership, diversity, interdisciplinarity, and academic excellence
   * Met monthly to discuss and admit applicants
-* **STEM cultures working group**, University of British Columbia, November 2017-present, including activities such as:
-  * Co-chair, September 2018-present
-  * Discuss topics related to equity and diversity in STEM fields with undergraduates, graduate students,
-   faculty members, and working professionals
-  * Led a discussion about power and equity in data science with graduate students and working professionals
-  * Workshop possibilities for promoting equity and diversity in STEM with graduate students, faculty,
-   and working professionals at UBC  
 
 *University of Washington*  
 * **Undergraduate Research Leader**, University of Washington Undergraduate Research Program,

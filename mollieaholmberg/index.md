@@ -19,11 +19,9 @@ At the [Institute for Health Metrics](http://www.healthdata.org) (IHME), I devel
      to the first and second metric assessments of countries' progress towards the health-related Sustainable
       Development Goals.
 
-For my MA work, I've returned to my undergraduate training in biology and interests in __ by using the Giant Pacific
+For my MA work, I've blended my undergraduate training in biology and love for the critical humanities by using the Giant Pacific
  octopus (*Enteroctopus dofleini*) exhibit at the Vancouver Aquarium to investigate the role of captive
  care in conservation. Engaging with
-   feminist scholarship and conservation science studies, I argue that the Aquarium practices
-    modes of caring that also enclose octopuses within human control, and this control only unravels where human
-     care fails or ends. However, failed care often kills: the Aquarium’s life-giving forms of care degrade wild-caught octopus health but
-     only unravel without violence when staff deliberately cede control over care outcomes. This work therefore illustrates how
-      captive care (as a conservation strategy) operates in tension with ecological violence it simultaneously opposes and relies upon.
+   feminist scholarship and conservation science studies, this work outlines how
+      captive care (as a conservation strategy) operates in tension with ecological violence it simultaneously opposes
+       and relies upon.

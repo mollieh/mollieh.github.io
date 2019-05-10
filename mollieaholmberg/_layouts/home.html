@@ -7,11 +7,12 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-    <div class="photo-container column"
-  <p><img src="assets/profile_pic_holmberg_octo_background.jpg" alt="Ceph" class="banner-photo" /></p>
-    </div>
     <div class="summary-container column" 
 {{ content }}
+    </div>
+
+<div class="photo-container column"
+  <p><img src="assets/profile_pic_holmberg_octo_background.jpg" alt="Ceph" class="banner-photo" /></p>
     </div>
 
   {%- if site.posts.size > 0 -%}

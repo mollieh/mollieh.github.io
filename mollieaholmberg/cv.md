@@ -18,33 +18,33 @@ Minor in Global Health
 Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
 
 ### Select Grants, Honors, & Awards
-* **Vanier Canada Graduate Scholarship, 2019-2022**  
+* **[Vanier Canada Graduate Scholarship](http://vanier.gc.ca/en/home-accueil.html), 2019-2022**  
   Awarded to up to 166 doctoral students in Canada each year based on academic excellence, research potential, and leadership
-* **Four Year Doctoral Fellowship (4YF), 2022-2023**
+* **[Four Year Doctoral Fellowship (4YF)](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf), 2022-2023**
 * **Jimmy Grewal Memorial Award in Geography, 2018**  
   Awarded to a student in UBC Geography who is passionate about the environment and has a demonstrated record of volunteering and community service
-* **Affiliated Fellowship (Master's), 2018-2019**  
+* **[Affiliated Fellowship (Master's)](https://www.grad.ubc.ca/awards/affiliated-fellowships-masters-program), 2018-2019**  
   Awarded to approximately 50 master's students at the University of British Columbia based on academic merit, research potential, community involvement, and leadership activities
 * **R. Howard Webster Fellowship, 2017-2018** 
   Awarded to select incoming graduate residents of Green College at the University of British Columbia
-* **National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP) Fellowship, 2017**, (declined - for graduate study at U.S. institutions only)  
+* **[National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP) Fellowship](https://www.nsfgrfp.org/), 2017**, (declined - for graduate study at U.S. institutions only)  
   Awarded annually to 2,000 students in the United States entering their first year of graduate study
 * **Undergraduate Research Conference Travel Award, 2014**  
   University of Washington Undergraduate Research Program, awarded to support research conference travel for outstanding undergraduates
 * **Casey Award, 2014**  
   University of Washington Department of Biology, awarded to one student in the department each year for research conference travel
-* **Mary Gates Research Scholarship, 2012, 2013**  
+* **[Mary Gates Research Scholarship](http://expd.uw.edu/mge/apply/research/), 2012, 2013**  
   Awarded to outstanding undergraduates a maximum of two times to support independent academic research projects
 
 ### Research Experience
 * **Research Assistant**, University of British Columbia, July 2017-present
-* **Institute for Health Metrics and Evaluation**, University of Washington
+* [**Institute for Health Metrics and Evaluation**](http://www.healthdata.org), University of Washington
   * Data Analyst, February 2015-September 2016
   * Data Specialist, September 2016-July 2017
-* **Marine Sedimentary Processes Research Apprenticeship**, Friday Harbor Labs, University of Washington, March 2014-June 2014
+* **Marine Sedimentary Processes Research Apprenticeship**, [Friday Harbor Labs](https://fhl.uw.edu/), University of Washington, March 2014-June 2014
 * **Undergraduate Researcher**, University of Washington Department of Geography, September 2011-June 2014
-* **Summer Institute in the Arts and Humanities**, University of Washington, June 2013-August 2013
-* **Research Assistant, Kaeberlein Lab**, University of Washington School of Medicine Department of Pathology, November 2010-March 2012
+* [**Summer Institute in the Arts and Humanities**](https://www.washington.edu/undergradresearch/siah/), University of Washington, June 2013-August 2013
+* **Research Assistant, [Kaeberlein Lab](https://kaeberleinlab.org/)**, University of Washington School of Medicine Department of Pathology, November 2010-March 2012
 
 ### Service & Leadership
 *University of British Columbia*

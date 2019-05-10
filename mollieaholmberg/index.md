@@ -14,7 +14,7 @@ My MA work focuses on the Giant Pacific octopus (*Enteroctopus dofleini*) exhibi
    investigating how people use this exhibit to implement conservation work. Engaging with
    feminist scholarship and conservation science studies, I argue that the Aquarium seeks to produce
     modes of caring that also enclose octopuses within human control. This control only unravels where human care fails or ends.
-    However, failed care often kills. The Aquarium’s life-giving forms of care degrade wild-caught octopus health but
+    However, failed care often kills: the Aquarium’s life-giving forms of care degrade wild-caught octopus health but
      only unravel without violence when staff deliberately cede control over care outcomes. This work illustrates how
       the Aquarium’s conservation mandate operates in tension with ecological violence it simultaneously opposes and relies upon.
 

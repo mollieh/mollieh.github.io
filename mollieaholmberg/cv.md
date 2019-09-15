@@ -6,10 +6,10 @@ order: 3
 ---
  
 ### Education
-**University of British Columbia**, starting September 2019  
+**University of British Columbia**, September 2019-current  
 *Doctor of Philosophy (PhD)*, Geography  
 
-**University of British Columbia**, September 2017-current  
+**University of British Columbia**, September 2017-August 2019  
 *Master of Arts (MA)*, Geography  
 
 **University of Washington**, August 2010-June 2014  
@@ -21,6 +21,8 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
 * **[Vanier Canada Graduate Scholarship](http://vanier.gc.ca/en/home-accueil.html), 2019-2022**  
   Awarded to up to 166 doctoral students in Canada each year based on academic excellence, research potential, and leadership
 * **[Four Year Doctoral Fellowship (4YF)](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf), 2022-2023**
+* **William C. Gibson Citation, 2019**  
+  Recognizes Resident Members of Green College who have made outstanding contributions to the life of the College in a given year
 * **Jimmy Grewal Memorial Award in Geography, 2018**  
   Awarded to a student in UBC Geography who is passionate about the environment and has a demonstrated record of volunteering and community service
 * **[Affiliated Fellowship (Master's)](https://www.grad.ubc.ca/awards/affiliated-fellowships-masters-program), 2018-2019**  
@@ -29,8 +31,6 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
   Awarded to select incoming graduate residents of Green College at the University of British Columbia
 * **[National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP) Fellowship](https://www.nsfgrfp.org/), 2017**, (declined - for graduate study at U.S. institutions only)  
   Awarded annually to 2,000 students in the United States entering their first year of graduate study
-* **Undergraduate Research Conference Travel Award, 2014**  
-  University of Washington Undergraduate Research Program, awarded to support research conference travel for outstanding undergraduates
 * **Casey Award, 2014**  
   University of Washington Department of Biology, awarded to one student in the department each year for research conference travel
 * **[Mary Gates Research Scholarship](http://expd.uw.edu/mge/apply/research/), 2012, 2013**  
@@ -48,18 +48,20 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
 
 ### Service & Leadership
 *University of British Columbia*
-* **Volunteer Gallery Educator**, Vancouver Aquarium, April 2018-present, including activities such as:
+* Green College, University of British Columbia
+  * **Residents' Council**: Co-chair, 2019-present
+    * Organized and led monthly meetings of the Green College Residents' Council
+    * Liaison between residents and College administration
+  * [**Resident Members' Series**](https://greencollege.ubc.ca/lecture-series-list): Co-convener, 2019-present, Organized weekly public lectures given at the College by residents
+  * **Green Lantern**: 2018-2019, One of four residents selected to provide emotional support and guidance to graduate students living at Green College
+    * Provided residents with confidential problem-solving assistance on diverse health, wellness, and housing issues
+    * Advocated for resident needs to improve health and wellness supports at the College
+  * **Sustainability Committee**: Co-chair, 2018-2019, Developed strategies for increasing sustainable practices at Green College
+   and organized gardening activities for Green College residents
+  * **Membership Committee**: March 2018-June 2018, One of four residents selected to review and rate applications for resident membership at Green College, UBC
+* **Volunteer Gallery Educator**, Vancouver Aquarium, April 2018-2019, including activities such as:
   * Developed conservation messaging customized for different prop carts and exhibits
   * Engaged aquarium visitors with conservation storytelling in the galleries
-* **Sustainability Committee**, Green College, University of British Columbia, March 2018-present, including activities such as:
-  * Co-chair 2018-present
-  * Organized gardening activities for Green College residents
-  * Developed strategies for increasing sustainable practices at Green College
-  * Collaborated with Arts Committee to develop nature-themed art displays at spring coffee house events
-* [**Green Lantern**](https://greencollege.ubc.ca/green-lanterns), Green College, University of British Columbia, September 2018-present
-  * One of four residents selected to provide emotional support and guidance to graduate students living at Green College
-  * Provided residents with confidential problem-solving assistance on diverse health, wellness, and housing issues
-  * Advocated for resident needs to improve health and wellness supports at the College
 * [**Hope in the Anthropocene Workshop**](https://www.greencollege.ubc.ca/sites/greencollege.ubc.ca/files/HopeWkspReport2018.pdf), Green College, University of British Columbia, February 2018-April 2018, including activities such as:
   * Co-organizer: collaborated on a team of four graduate students from Green College and iRES
   * Rapporteur for first lecture in Hope in the Anthropocene series: took notes, distilled key insights,
@@ -69,10 +71,6 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
   * Led workshop and compiled insights from attendees
   * For more information, see [this report](https://www.greencollege.ubc.ca/sites/greencollege.ubc.ca/files/HopeWkspReport2018.pdf)
    drafted by myself and the other organizers
-* **Membership Committee**, Green College, University of British Columbia, March 2018-June 2018, including activities such as:
-  * One of four residents selected to review and rate applications for resident membership at Green College, UBC
-  * Evaluated applicants based on community service, leadership, diversity, interdisciplinarity, and academic excellence
-  * Met monthly to discuss and admit applicants
 
 *University of Washington*  
 * **Undergraduate Research Leader**, University of Washington Undergraduate Research Program,

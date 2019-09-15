@@ -31,8 +31,6 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
   Awarded to select incoming graduate residents of Green College at the University of British Columbia
 * **[National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP) Fellowship](https://www.nsfgrfp.org/), 2017**, (declined - for graduate study at U.S. institutions only)  
   Awarded annually to 2,000 students in the United States entering their first year of graduate study
-* **Casey Award, 2014**  
-  University of Washington Department of Biology, awarded to one student in the department each year for research conference travel
 * **[Mary Gates Research Scholarship](http://expd.uw.edu/mge/apply/research/), 2012, 2013**  
   Awarded to outstanding undergraduates a maximum of two times to support independent academic research projects
 
@@ -46,8 +44,7 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
 * [**Summer Institute in the Arts and Humanities**](https://www.washington.edu/undergradresearch/siah/), University of Washington, June 2013-August 2013
 * **Research Assistant, [Kaeberlein Lab](https://kaeberleinlab.org/)**, University of Washington School of Medicine Department of Pathology, November 2010-March 2012
 
-### Service & Leadership
-*University of British Columbia*
+### Recent Service & Leadership
 * Green College, University of British Columbia
   * **Residents' Council**: Co-chair, 2019-present
     * Organized and led monthly meetings of the Green College Residents' Council
@@ -71,26 +68,6 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
   * Led workshop and compiled insights from attendees
   * For more information, see [this report](https://www.greencollege.ubc.ca/sites/greencollege.ubc.ca/files/HopeWkspReport2018.pdf)
    drafted by myself and the other organizers
-
-*University of Washington*  
-* **Undergraduate Research Leader**, University of Washington Undergraduate Research Program,
- September 2013-March 2014, including activities such as:
-  * Spoke on panels about undergraduate research for other undergraduates and high school students
-  * Mentored other students at abstract-writing workshops
-  * Advocated for increased federal support for undergraduate research in Washington, D.C.
-* **GlobeMed at the University of Washington**, September 2011-March 2014, including activities such as:
-  * Organized, advertised, and implemented fundraisers for GlobeMed’s grassroots partner in Cambodia 
-  * Educated peers about issues in social justice and health equity through outreach events 
-  * Collaborated with student groups across campus and at other universities to organize and host events 
-  * Participated in the 2012 and 2013 GlobeMed National Summits in Evanston, Illinois where students from over 50
- universities met to discuss strategies for harnessing international partnership and youth engagement towards global health equity
-* **Burke Museum Student Advisory Board**, Burke Museum of Natural and Cultural History,
- November 2010-March 2014, including activities such as:
-  * Founding member
-  * Organized, advertised, and implemented free events for students at the museum 
-  * Educated peers about collections in the museum and purposes of the museum at the university 
-  * Advised museum staff on student outreach and marketing strategies 
-  * Collaborated with student groups across campus and at other universities
 
 ### Scholarly & Professional Memberships
 * Green College Resident Member

@@ -20,7 +20,7 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
 ### Select Grants, Honors, & Awards
 * **[Vanier Canada Graduate Scholarship](http://vanier.gc.ca/en/home-accueil.html), 2019-2022**  
   Awarded to up to 166 doctoral students in Canada each year based on academic excellence, research potential, and leadership
-* **[Four Year Doctoral Fellowship (4YF)](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf), 2022-2023**
+* **[Four Year Doctoral Fellowship (4YF)](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf), 2019-2023**
 * **William C. Gibson Citation, 2019**  
   Recognizes Resident Members of Green College who have made outstanding contributions to the life of the College in a given year
 * **Jimmy Grewal Memorial Award in Geography, 2018**  

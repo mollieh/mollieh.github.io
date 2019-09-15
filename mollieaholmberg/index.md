@@ -16,3 +16,7 @@ For my MA work, I blended my undergraduate training in biology and love for the 
    feminist scholarship and conservation science studies, this work outlines how
       captive care as a conservation strategy operates in tension with ecological violence it simultaneously opposes
        and relies upon.
+
+*Other profiles:*  
+[UBC Graduate and Postdoctoral Studies](https://www.grad.ubc.ca/campus-community/meet-our-students/holmberg-mollie)  
+[UBC Department of Geography](https://www.geog.ubc.ca/persons/mollie-holmberg/)

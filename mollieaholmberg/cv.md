@@ -31,8 +31,6 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
   Awarded to select incoming graduate residents of Green College at the University of British Columbia
 * **[National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP) Fellowship](https://www.nsfgrfp.org/), 2017**, (declined - for graduate study at U.S. institutions only)  
   Awarded annually to 2,000 students in the United States entering their first year of graduate study
-* **Undergraduate Research Conference Travel Award, 2014**  
-  University of Washington Undergraduate Research Program, awarded to support research conference travel for outstanding undergraduates
 * **Casey Award, 2014**  
   University of Washington Department of Biology, awarded to one student in the department each year for research conference travel
 * **[Mary Gates Research Scholarship](http://expd.uw.edu/mge/apply/research/), 2012, 2013**  

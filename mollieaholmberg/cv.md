@@ -6,10 +6,10 @@ order: 3
 ---
  
 ### Education
-**University of British Columbia**, starting September 2019  
+**University of British Columbia**, September 2019-current  
 *Doctor of Philosophy (PhD)*, Geography  
 
-**University of British Columbia**, September 2017-current  
+**University of British Columbia**, September 2017-August 2019  
 *Master of Arts (MA)*, Geography  
 
 **University of Washington**, August 2010-June 2014  
@@ -48,15 +48,15 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
 
 ### Service & Leadership
 *University of British Columbia*
-* **Volunteer Gallery Educator**, Vancouver Aquarium, April 2018-present, including activities such as:
+* **Volunteer Gallery Educator**, Vancouver Aquarium, April 2018-2019, including activities such as:
   * Developed conservation messaging customized for different prop carts and exhibits
   * Engaged aquarium visitors with conservation storytelling in the galleries
 * **Sustainability Committee**, Green College, University of British Columbia, March 2018-present, including activities such as:
-  * Co-chair 2018-present
+  * Co-chair 2018-2019
   * Organized gardening activities for Green College residents
   * Developed strategies for increasing sustainable practices at Green College
   * Collaborated with Arts Committee to develop nature-themed art displays at spring coffee house events
-* [**Green Lantern**](https://greencollege.ubc.ca/green-lanterns), Green College, University of British Columbia, September 2018-present
+* [**Green Lantern**](https://greencollege.ubc.ca/green-lanterns), Green College, University of British Columbia, September 2018-2019
   * One of four residents selected to provide emotional support and guidance to graduate students living at Green College
   * Provided residents with confidential problem-solving assistance on diverse health, wellness, and housing issues
   * Advocated for resident needs to improve health and wellness supports at the College

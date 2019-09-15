@@ -69,6 +69,7 @@ Castanza, M. Fletcher, S. Goswami, S. Higgins, **M. Holmberg**, J. Hui, M. Jelic
 https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0380840) *(MA Thesis - August 2019)*
 
 ### Conference & Symposia Presentations
+*MA work*
 * "Crisis ecology at the Vancouver Aquarium: Putting octopuses to work for conservation." Oral Presentation. *RGS-IBG
  Annual International Conference*, August 30, 2019, London, UK
 * "Crisis ecology at the Vancouver Aquarium: Putting octopuses to work for conservation." Oral Presentation. *Canadian
@@ -79,6 +80,8 @@ https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0380840) *(M
  Washington, DC
 * "Crisis ecology at the Vancouver Aquarium: Putting octopuses to work for conservation." Oral Presentation. [*Members
  Series*](https://greencollege.ubc.ca/civicrm/event/info%3Fid%3D948%26reset%3D1), March 25, 2019, Green College, **University of British Columbia**, Vancouver, BC
+
+*Undergraduate work*
 * "Reconnecting Amid Crisis: Mourning in the Context of Ebola." Oral Presentation. *Undergraduate Research Symposium*,
  May 16, 2014, **University of Washington**, Seattle, WA
 * "Understanding Patterns of Human Dependence on Primary Production in the Anthropocene." Poster Presentation.

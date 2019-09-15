@@ -65,7 +65,8 @@ Castanza, M. Fletcher, S. Goswami, S. Higgins, **M. Holmberg**, J. Hui, M. Jelic
  [http://societyandspace.org/2018/07/24/planetary-improvement-by-jesse-goldstein/](http://societyandspace.org/2018/07/24/planetary-improvement-by-jesse-goldstein/)
 
 ### Theses
-Crisis Ecology at the Vancouver Aquarium: Putting Octopuses to Work for Conservation *(MA Thesis - Forthcoming)*
+[Crisis Ecology at the Vancouver Aquarium: Putting Octopuses to Work for Conservation](
+https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0380840) *(MA Thesis - August 2019)*
 
 ### Conference & Symposia Presentations
 * "Crisis ecology at the Vancouver Aquarium: Putting octopuses to work for conservation." Oral Presentation. *RGS-IBG

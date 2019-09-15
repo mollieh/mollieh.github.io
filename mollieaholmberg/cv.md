@@ -27,7 +27,7 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
   Awarded to a student in UBC Geography who is passionate about the environment and has a demonstrated record of volunteering and community service
 * **[Affiliated Fellowship (Master's)](https://www.grad.ubc.ca/awards/affiliated-fellowships-masters-program), 2018-2019**  
   Awarded to approximately 50 master's students at the University of British Columbia based on academic merit, research potential, community involvement, and leadership activities
-* **R. Howard Webster Fellowship, 2017-2018** 
+* **R. Howard Webster Fellowship, 2017-2018**  
   Awarded to select incoming graduate residents of Green College at the University of British Columbia
 * **[National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP) Fellowship](https://www.nsfgrfp.org/), 2017**, (declined - for graduate study at U.S. institutions only)  
   Awarded annually to 2,000 students in the United States entering their first year of graduate study

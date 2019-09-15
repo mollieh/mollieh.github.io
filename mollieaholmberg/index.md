@@ -5,12 +5,12 @@
 layout: home
 ---  
 
-I am an MA student in Geography at the University of British Columbia. After graduating with a biology degree,
+I am a PhD student in Geography at the University of British Columbia. After graduating with a biology degree,
  I worked in data science for two and a half years forecasting health outcomes at the Institute for Health Metrics and
   Evaluation. Now, I study how interactions between scientific practices and power impact ecosystems and health
    equity.
 
-For my MA work, I've blended my undergraduate training in biology and love for the critical humanities by using the Giant Pacific
+For my MA work, I blended my undergraduate training in biology and love for the critical humanities by using the Giant Pacific
  octopus (*Enteroctopus dofleini*) exhibit at the Vancouver Aquarium to investigate the role of captive
  care in conservation. Engaging with
    feminist scholarship and conservation science studies, this work outlines how

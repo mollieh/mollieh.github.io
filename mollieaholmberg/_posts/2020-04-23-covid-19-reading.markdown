@@ -24,7 +24,7 @@ published in blog, essay, or op-ed form for the general public:
 historian **Kathryn Olivarius** draws on her research about the history of yellow fever in the antebellum US 
 South to explain the dangers of giving people with immunity special privileges during COVID-19. 
 * A team of epidemiologists and critical geographers led by **Rob Wallace** talk about the connections between 
-[capitalism, global food systems, and COVID-19]("https://monthlyreview.org/2020/04/01/covid-19-and-circuits-of-capital/").
+[capitalism, global food systems, and COVID-19](https://monthlyreview.org/2020/04/01/covid-19-and-circuits-of-capital/).
 
 Commentaries in academic journals (apologies for the paywalls):
 * Anthropologist **Susan Erikson** and geographer **Leigh Johnson** talk financial innovation and pandemic response 

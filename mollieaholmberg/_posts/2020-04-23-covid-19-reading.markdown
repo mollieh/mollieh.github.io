@@ -34,3 +34,23 @@ in [this commentary](https://www.thelancet.com/journals/laninf/article/PIIS1473-
 for *The Lancet Infectious Diseases*
 * Writing into *The Lancet*, **Sarah Dalgish** from the Johns Hopkins Department of Public Health explains why 
 [COVID-19 has called conventional metrics of global health expertise into serious question](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30739-X/fulltext#%20).
+
+# Useful Explanations by (non-armchair) Epidemiologists
+As someone from Seattle who used to work for University of Washington Medicine, my sources are biased 
+towards people I know of through my networks there. That said, Seattle is also a global hub for epidemiology 
+and biomedical innovation, and these resources are geared towards a more-than-local audience.
+* On Twitter I've been following [**Carl Bergstrom**](https://twitter.com/CT_Bergstrom) (@CT_Bergstrom) and 
+[Trevor Bedford](https://twitter.com/trvrb) (@trvrb). 
+  * Carl is a mathematical biologist at the University of Washington who studies information - both how it 
+flows through biological systems (including the co-evolution of immune systems and pathogens) and the 
+rampant spread of misinformation in the age of Trump. Several years ago, his course syllabus for a seminar titled 
+["Calling Bullshit: Data Reasoning in a Digital World"](https://callingbullshit.org/) went viral. He's been particularly vocal about the spread of 
+misinformation on COVID-19, given that this sits at the intersection of several things he's been working 
+on for a while now. 
+  * Trevor is a virologist at the Fred Hutchinson Research Center in Seattle who specializes in tracking 
+and sequencing infectious pathogens. [His blog](https://bedford.io/blog/) is also a fantastic resource 
+on COVID-19 epidemiology for non-scientists.
+* [This simulation](http://statnet.org/COVID-JustOneFriend/) by the University of Washington Network 
+Modeling Group is also a great illustration of why it's so important to practice strict social 
+distancing. Use this to explain to your friends and family why no, it is not okay if you just visit 
+one friend right now.

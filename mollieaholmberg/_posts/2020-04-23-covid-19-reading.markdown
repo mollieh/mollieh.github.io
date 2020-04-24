@@ -6,7 +6,9 @@ categories:
 ---
 
 I wanted to offer some resources that have been helpful for me processing the COVID-19 outbreak here in 
-Vancouver, British Columbia.
+Vancouver, British Columbia. I've deliberately excluded the really scary but also true stuff (there's plenty of that on 
+Facebook, Twitter, and the New York Times already), speculation, and generally anything that makes my blood boil with rage 
+(such as a certain elderly Italian philosopher's complaints about COVID-19 lockdown - if that's your jam you can Google it because I'm not linking it here).
 
 # Coping in Academia during COVID-19 
 Political scientist Aisha Ahmad's advice based on her experiences living and 

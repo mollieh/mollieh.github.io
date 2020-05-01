@@ -8,6 +8,9 @@ order: 2
 ### Peer-reviewed articles
 Please e-mail me for copies of any articles - I'm happy to send them along.
 
+* R.C. Collard, J. Dempsey, and **M. Holmberg** (2020) "Extirpation despite regulation? Environmental assessment and caribou" 
+*Conservation Science & Practice* doi: [https://doi.org/10.1111/csp2.166](https://doi.org/10.1111/csp2.166)
+
 * K. Foreman et al. (2018) "Forecasting life expectancy, years of life lost, all-cause and cause-specific mortality for
  250 causes of death: reference and alternative scenarios 2016–2040 for 195 countries and territories." *The Lancet* doi:
 [https://doi.org/10.1016/S0140-6736(18)31694-5](https://doi.org/10.1016/S0140-6736(18)31694-5)  

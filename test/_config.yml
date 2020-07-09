@@ -30,7 +30,8 @@ twitter_username: OctoQueenPhD
 github_username:  mollieh
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 

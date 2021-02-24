@@ -46,10 +46,10 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
 
 ### Recent Service & Leadership
 * Green College, University of British Columbia
-  * **Residents' Council**: Co-chair, 2019- August 2020
+  * **Residents' Council**: Co-chair, 2019-2020
     * Organized and led monthly meetings of the Green College Residents' Council
     * Liaison between residents and College administration
-  * [**Resident Members' Series**](https://greencollege.ubc.ca/lecture-series-list): Co-convener, 2019-present, Organized weekly public lectures given at the College by residents
+  * [**Resident Members' Series**](https://greencollege.ubc.ca/lecture-series-list): Co-convener, 2019-2020, Organized weekly public lectures given at the College by residents
   * **Green Lantern**: 2018-2019, One of four residents selected to provide emotional support and guidance to graduate students living at Green College
     * Provided residents with confidential problem-solving assistance on diverse health, wellness, and housing issues
     * Advocated for resident needs to improve health and wellness supports at the College

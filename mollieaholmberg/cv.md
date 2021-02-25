@@ -49,7 +49,12 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
   * **Residents' Council**: Co-chair, 2019-2020
     * Organized and led monthly meetings of the Green College Residents' Council
     * Liaison between residents and College administration
+    * Advocated for residents with university administration during the COVID-19 crisis
   * [**Resident Members' Series**](https://greencollege.ubc.ca/lecture-series-list): Co-convener, 2019-2020, Organized weekly public lectures given at the College by residents
+  * **Writer in Residence Selection Committee**: January 2020-March 2020, Reviewed and rated applications for the Writer in Residence position at Green College, UBC
+  * **Academic Committee**: October 2020-February 2020
+    * Ran nomination and selection process for Cecil and Ida Green visiting professorship
+    * Reviewed applications for 2020-2022 cohort of Leading Scholars at Green College, UBC
   * **Green Lantern**: 2018-2019, One of four residents selected to provide emotional support and guidance to graduate students living at Green College
     * Provided residents with confidential problem-solving assistance on diverse health, wellness, and housing issues
     * Advocated for resident needs to improve health and wellness supports at the College
@@ -70,6 +75,12 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
    drafted by myself and the other organizers
 
 ### Scholarly & Professional Memberships
-* Green College Resident Member
+* Green College Society Member
+* American Association of Geographers
+* Canadian Association of Geographers
 * Phi Beta Kappa
 * Beta Beta Beta (Biological Honors Society)
+
+### Peer Review Panel Member
+* Global Public Health
+* Transactions of the Institute of British Geographers

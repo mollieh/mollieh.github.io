@@ -8,6 +8,9 @@ order: 2
 ### Peer-reviewed articles
 Please e-mail me for copies of any articles - I'm happy to send them along.
 
+* **M. Holmberg** (in press) "Beyond Anthropomorphism: Thinking with and Attending to Other Species in Multispecies Research." 
+*ACME: An International Journal for Critical Geographies*.
+
 * R.C. Collard, J. Dempsey, and **M. Holmberg** (2020) "Extirpation despite regulation? Environmental assessment and caribou" 
 *Conservation Science & Practice* doi: [https://doi.org/10.1111/csp2.166](https://doi.org/10.1111/csp2.166)
 
@@ -71,12 +74,13 @@ Castanza, M. Fletcher, S. Goswami, S. Higgins, **M. Holmberg**, J. Hui, M. Jelic
 [Crisis Ecology at the Vancouver Aquarium: Putting Octopuses to Work for Conservation](
 https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0380840) *(MA Thesis - August 2019)*
 
-### Conference & Symposia Presentations
+### Selected Conference & Symposia Presentations
 *MA work*
 * "Crisis ecology at the Vancouver Aquarium: Putting octopuses to work for conservation." Oral Presentation. *RGS-IBG
  Annual International Conference*, August 30, 2019, London, UK
 * "Crisis ecology at the Vancouver Aquarium: Putting octopuses to work for conservation." Oral Presentation. *Canadian
  Association of Geographers Annual General Meeting*, May 31, 2019, Winnipeg, MB
+* "Body/Life/Capital." Panelist. SFU-UBC Graduate Research Roundtable, April 26, 2019, SFU Harbour Centre, Vancouver, BC
 * "Crisis ecology at the Vancouver Aquarium: Putting octopuses to work for conservation." Oral Presentation. *American
  Association of Geographers Annual Meeting*, April 7, 2019, Washington, DC
 * Ethics in Multispecies Research Panel. Panelist. *American Association of Geographers Annual Meeting*, April 7, 2019,

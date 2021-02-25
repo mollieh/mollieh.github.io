@@ -52,7 +52,7 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
     * Advocated for residents with university administration during the COVID-19 crisis
   * [**Resident Members' Series**](https://greencollege.ubc.ca/lecture-series-list): Co-convener, 2019-2020, Organized weekly public lectures given at the College by residents
   * **Writer in Residence Selection Committee**: January 2020-March 2020, Reviewed and rated applications for the Writer in Residence position at Green College, UBC
-  * **Academic Committee**: October 2020-February 2020
+  * **Academic Committee**: October 2019-February 2020
     * Ran nomination and selection process for Cecil and Ida Green visiting professorship
     * Reviewed applications for 2020-2022 cohort of Leading Scholars at Green College, UBC
   * **Green Lantern**: 2018-2019, One of four residents selected to provide emotional support and guidance to graduate students living at Green College

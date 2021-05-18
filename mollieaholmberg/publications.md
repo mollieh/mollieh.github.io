@@ -11,8 +11,10 @@ Please e-mail me for copies of any articles - I'm happy to send them along.
 * **M. Holmberg** (in press) "Beyond Anthropomorphism: Thinking with and Attending to Other Species in Multispecies Research." 
 *ACME: An International Journal for Critical Geographies*.
 
-* **M. Holmberg** (in press) "Constructing captive ecology at the Aquarium: Hierarchy, care, violence and the limits of
- control." *Environment and Planning E: Nature and Space*.
+   *Part of forthcoming special issue on ethics in multispecies research*
+
+* **M. Holmberg** (2021) "Constructing captive ecology at the Aquarium: Hierarchy, care, violence and the limits of
+ control." *Environment and Planning E: Nature and Space*. doi: [https://doi.org/10.1177/25148486211014508](https://doi.org/10.1177/25148486211014508)
 
 * R.C. Collard, J. Dempsey, and **M. Holmberg** (2020) "Extirpation despite regulation? Environmental assessment and caribou" 
 *Conservation Science & Practice* doi: [https://doi.org/10.1111/csp2.166](https://doi.org/10.1111/csp2.166)

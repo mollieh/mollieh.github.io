@@ -8,8 +8,9 @@ order: 2
 ### Peer-reviewed articles
 Please e-mail me for copies of any articles - I'm happy to send them along.
 
-* **M. Holmberg** (in press) "Beyond Anthropomorphism: Thinking with and Attending to Other Species in Multispecies Research." 
-*ACME: An International Journal for Critical Geographies*.
+* **M. Holmberg** (2022) "Beyond Anthropomorphism: Thinking with and Attending to Other Species in Multispecies Research." 
+*ACME: An International Journal for Critical Geographies*. 21(2), 172-187.
+ [https://acme-journal.org/index.php/acme/article/view/2033](https://acme-journal.org/index.php/acme/article/view/2033)
 
    *Part of forthcoming special issue on ethics in multispecies research*
 

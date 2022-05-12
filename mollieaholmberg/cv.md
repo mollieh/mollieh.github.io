@@ -82,5 +82,7 @@ Interdisciplinary Honors, 3.91 GPA, *magna cum laude*
 * Beta Beta Beta (Biological Honors Society)
 
 ### Peer Review Panel Member
-* Global Public Health
-* Transactions of the Institute of British Geographers
+* Environment and Planning E: Nature and Space (2)
+* Global Public Health (1)
+* New Zealand Geographer (1)
+* Transactions of the Institute of British Geographers (3)

@@ -12,7 +12,7 @@ Please e-mail me for copies of any articles - I'm happy to send them along.
 *ACME: An International Journal for Critical Geographies*. 21(2), 172-187.
  [https://acme-journal.org/index.php/acme/article/view/2033](https://acme-journal.org/index.php/acme/article/view/2033)
 
-   *Part of forthcoming special issue on ethics in multispecies research*
+   *Part of special issue on ethics in multispecies research*
 
 * **M. Holmberg** (2021) "Constructing captive ecology at the Aquarium: Hierarchy, care, violence and the limits of
  control." *Environment and Planning E: Nature and Space*. doi: [https://doi.org/10.1177/25148486211014508](https://doi.org/10.1177/25148486211014508)
